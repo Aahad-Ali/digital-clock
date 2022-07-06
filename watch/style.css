@@ -1,0 +1,30 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color: black;
+
+}
+
+
+
+.contanier{
+    color: aliceblue;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    font-weight: bold;
+    font-size: 60px;
+    transform: translate(-50% , -50%);
+    font-family: Arial, Helvetica, sans-serif;
+    border: 50px solid rgb(254, 254, 254);
+    
+}
+h1{
+    /* color: aliceblue; */
+    font-size: 100px;
+    background-color: rgb(201, 201, 55);
+}
+span{
+    border:  3px solid red;
+}
